@@ -1,8 +1,1 @@
-todo:
-
-- fizzbuzz
-- factorial
-
-- bubble sort
-- insertion sort
-- quicksort
+Golang code examples for different constructions and algorithms.
